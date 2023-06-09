@@ -3,6 +3,17 @@
 # Dots-flyingfox
 
 </div>
+<div style="display: flex; flex-direction: column;" >
+ <div>
+
+![img.png](assets/iamge-1.png)
+</div>
+<div>
+
+![img.png](assets/image-2.png)
+
+</div>
+</div>
 
 This theme just applies FlyingFox colors on to Dots theme. Personally, it's easier on my eyes.
 
