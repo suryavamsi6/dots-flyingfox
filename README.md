@@ -6,7 +6,7 @@
 <div style="display: flex; flex-direction: column;" >
  <div>
 
-![img.png](assets/iamge-1.png)
+![img.png](assets/image-1.png)
 </div>
 <div>
 
