@@ -17,6 +17,8 @@
 
 This theme just applies FlyingFox colors on to Dots theme. Personally, it's easier on my eyes.
 
+Switch to dark-theme branch to apply a different theme.
+
 ## Instructions
 
 First and foremost, go to about:addons in your firefox. And enable the `Dark` theme.
