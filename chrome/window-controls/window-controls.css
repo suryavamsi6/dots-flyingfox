@@ -84,7 +84,6 @@
 
 .titlebar-restore:hover {
     opacity: 1 !important;
-    scale: 110%;
     /*transform: scale(110%);*/ /*Causes Windows 11 window snap feature to break*/
 }
 
